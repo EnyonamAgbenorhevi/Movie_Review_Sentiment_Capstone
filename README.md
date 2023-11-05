@@ -12,11 +12,7 @@ This project serves as the culmination of a 9-month Data Analytics program with 
 Here is a preview showcasing the project's interface:
 
 <div style="flex: 33.33%; text-align: center;">
-<<<<<<< HEAD
-        <p>user interface</p>
-=======
         <p>user_interface</p>
->>>>>>> 6a32002fd481fa80b035aa45683869abba4dfe20
         <img src="UI_Assets/movie_review_screenshort.png" alt="Middle" width="90%"/>
     </div>
 
