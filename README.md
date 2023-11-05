@@ -13,7 +13,7 @@ Here is a preview showcasing the project's interface:
 
 <div style="flex: 33.33%; text-align: center;">
         <p>Middle</p>
-        <img src="UI_Assets/movie_review _screenshort.png" alt="Middle" width="90%"/>
+        <img src="UI_Assets/movie review screenshort.png" alt="Middle" width="90%"/>
     </div>
 
 
