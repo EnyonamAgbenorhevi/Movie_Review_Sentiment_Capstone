@@ -3,6 +3,16 @@
 ## Project Objective 🎯
 The primary goal of this project is to conduct sentiment analysis on text data. Given a sentence, the project's objective is to classify whether the sentence expresses a positive or negative sentiment. Sentiment analysis is a crucial natural language processing (NLP) task that helps in understanding the emotional tone of text, making it valuable in various applications, such as customer reviews, social media analysis, and more.
 
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-Enabled-brightgreen)
+![NLP](https://img.shields.io/badge/NLP-Ready-blue)
+![Python 3.11](https://img.shields.io/badge/Python-3.11%2B-blue)
+![MIT License](https://img.shields.io/badge/License-MIT-lightgrey)
+![Jupyter Notebook](https://img.shields.io/badge/Notebook-Jupyter-yellow)
+[![Hugging Face Deployment](https://img.shields.io/badge/Hugging%20Face-Deployed-brightgreen)](https://huggingface.co/my-awesome-ml-web-app)
+[![Open Source Love png1](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+
+
 ## Project Overview 📚
 🎓 **Capstone Project - Data Analytics Program with Azubi Africa**
 
@@ -18,7 +28,7 @@ Here is a preview showcasing the project's interface:
 
 
 
-👉 The Streamlit App is available for interaction at this URL: [Insert URL Here]
+👉 The Streamlit App is available for interaction at this URL: [https://huggingface.co/spaces/petermutwiri/Movie_Review_Application]
 
 ## Notable Features 🌟
 The project encompasses several notable features, including:
@@ -75,6 +85,20 @@ To set up and run the project, follow these steps:
    ```bash
    Streamlit run app.py
    ```
+## Deployment 🌐
+
+The APP was further deployed on huggingface. You can interact with the app via huggingface following the steps below.
+
+- To access the moview review sentiment prediction app, you will need to be signed in to Hugging Face:
+
+1. If you don't have a Hugging Face account, you can sign up for free at .
+   [Hugging Face](https://huggingface.co/signup).
+
+2. After signing in, you can access the app using the link below:
+   🔔 ❗🤖[Movie-Review_Application](https://huggingface.co/spaces/petermutwiri/Movie_Review_Application)❗
+
+Please note that you need to be signed in to Hugging Face to utilize this service. If you encounter any issues or have questions, feel free to checkout the huggingface documentation [Huggingface Documentation](https://huggingface.co/docs) for assistance.
+   
 ## Acknowledgement 🥇
 
 I would like to express my gratitude to the [Azubi Africa Data Analyst Program](https://www.azubiafrica.org/data-analytics) for their support and for offering valuable projects as part of this program. Not forgeting my scrum masters on this program [Rachel Appiah-Kubi](https://www.linkedin.com/in/racheal-appiah-kubi/) & [Emmanuel Koupoh](https://github.com/eaedk)
